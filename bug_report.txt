@@ -1,0 +1,12 @@
+id
+summary
+description
+expected result
+actual result
+requirements
+steps to reproduce
+symptom
+severety
+priority
+attachments
+
